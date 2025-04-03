@@ -1,0 +1,23 @@
+{
+  "name": "sonarqubetesting",
+  "version": "1.0.0",
+  "description": "Para probar q onda con un Deployment seguro",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Attentionn/SonarQubeTesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Attentionn/SonarQubeTesting/issues"
+  },
+  "homepage": "https://github.com/Attentionn/SonarQubeTesting#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
